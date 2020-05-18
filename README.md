@@ -48,4 +48,5 @@ const request1 = require('request');
   }
 ```
 [whatsapp-api-documentation](https://www.gupshup.io/developer/docs/bot-platform/guide/whatsapp-api-documentation)
+
 [How does session messaging and template messaging work in Access API?](https://www.gupshup.io/developer/faq/whatsapp)
